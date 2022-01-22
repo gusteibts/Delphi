@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/25 14:38:24.000.481,=C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\WebModuleUnit2.pas</Transaction>
+    <Transaction>2021/08/25 14:38:32.000.213,=C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2021/08/25 14:40:20.000.731,=C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2021/08/25 14:40:23.000.877,=C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\WebModuleUnit2.pas</Transaction>
+    <Transaction>2021/12/01 14:43:38.000.875,=C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/19 15:35:41.000.965,=C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/20 11:19:34.000.887,=C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/20 15:40:49.000.483,C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\Main.pas</Transaction>
+    <Transaction>2022/01/20 15:40:49.000.493,C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\Main.fmx</Transaction>
+    <Transaction>2022/01/20 15:41:26.000.742,C:\Users\Administrador.WIN-QLUL4ONKHK0\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\CepEndereco.dproj</Transaction>
+    <Transaction>2022/01/21 08:08:22.000.294,=C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\Unit1.pas</Transaction>
+    <Transaction>2022/01/21 08:09:05.000.711,=C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\Unit1.pas</Transaction>
+    <Transaction>2022/01/21 08:10:21.000.678,C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\Unit1.fmx=C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\Configuracao.fmx</Transaction>
+    <Transaction>2022/01/21 08:10:21.000.678,C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\Unit1.pas=C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\Configuracao.pas</Transaction>
+    <Transaction>2022/01/22 09:55:14.787,C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Processo Seletivo\BuscaEndereco\CepEndereco.dproj=C:\Users\Administrador.WIN-QLUL4ONKHK0\Desktop\Busca Endereco\CepEndereco.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="Muler" Android64="AVD_for_Galaxy_Nexus"/>
+	</ActiveMobileDevice>
+</BorlandProject>
